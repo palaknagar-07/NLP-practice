@@ -1,0 +1,14 @@
+NLPenv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.env
+.venv
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
