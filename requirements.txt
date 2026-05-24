@@ -2,3 +2,4 @@ pandas
 numpy
 nltk
 ipykernel
+scikit-learn
